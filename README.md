@@ -5,4 +5,4 @@ Dieses Projekt dokumentiert den Bau eines Starrluftschiffes im Rahmen des Studie
 # Mechanik / Aufbau Luftschiff
 
 
-# Avionik
+# Elektronik
