@@ -8,4 +8,6 @@ Dass Luftschiff wird durch vier Motoren angetriebe. Die Motoren sind an Propelle
 
 Das Luftschiff besteht aus einem Holzgerippe, welches mit einer dünnen Folie luftdicht verschlossen ist. Um die dichtigkeit weiter zu steigen, beinhaltet das Luftschiff einen innen Körper, welcher später mit Helium/Ballongas gefüllt wird. Dies hat zusätlcih den Vorteil, dass sich im Luftschiff reines Helium befindet.
 
-# Elektronik
+# Elektronik / Flugsteuerung
+
+https://github.com/niclasboy/Flugsteuerung
